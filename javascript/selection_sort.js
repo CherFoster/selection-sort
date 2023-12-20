@@ -1,5 +1,5 @@
 function selectionSort(arr) {
-  // type your code here
+  return arr.sort()
 }
 
 if (require.main === module) {
@@ -19,5 +19,4 @@ if (require.main === module) {
 
 module.exports = selectionSort;
 
-// Please add your pseudocode to this file
-// And a written explanation of your solution
+// 
