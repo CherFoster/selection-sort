@@ -1,5 +1,7 @@
 function selectionSort(arr) {
-  return arr.sort()
+  const sorted = []
+  
+
 }
 
 if (require.main === module) {
@@ -19,4 +21,7 @@ if (require.main === module) {
 
 module.exports = selectionSort;
 
-// 
+// create empty array to store the sorted array
+// iterate over arr
+// find the minimum numbers
+// push the minimum numbers to the front of the array
